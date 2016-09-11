@@ -1,8 +1,75 @@
 {
-    "HELLO": "Hi there!\nI’m the personal bot of Alexandra, developer relations and community manager.\n![esther](img/alex.jpg)\nWant to know more about bots or learn about Alexandra? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Alexandra](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you're chatting with me today. Do you want to tell Alexandra that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HELLO": "Hi there!
+        \nI’m the personal bot of Alexandra, whom she cleverly named ALEXANDRABOT.
+        \nAlex is currently a developer relations and community manager.
+        \n![alexandra](https://raw.githubusercontent.com/aabowen/alexandrabot/master/img/alex.jpg)
+        \nWant to know more about Alexandra? Just tell me to GET STARTED.
+          %[I'm here for the bot](postback:here_for_the_bot)
+          %[Learn about Alexandra](postback:learn_about_esther)
+          %[One random fact!](postback:random_fact)",
+    "GET STARTED": "Sweet! 👍 Let's do this. I only respond to a KEYWORD (in caps) that I give you. You don't have to type in caps FYI ;) It's cute tho and eh, live your life!
+        \nOdds are you want to dive into Alex's EDUCATION, CAREER, or SIDE HUSTLE. I've also got a PHOTO or a RANDOM FACT for ya. Just type a KEYWORD and boom - your wish is my command! Literally.",
+      "CAREER": "Whew. This is a big one. She's really into keeping track of everything she's done, partially because she is organized and partially because she has a terrible memory.
+        \nRead more on her (self coded) website: aabowen.github.io, or if you literally are in the mood for #AllTheThings go to: alexandrabowen.weebly.com. I warned you.
+        \nShe is Head of Community and Developer Relations for DreamFactory Software currently where she's deep into REST APIs, IoT, and App development/mgmt. She's been with DreamFactory since April 2016. She also runs their community forum, events (online/offline), and social media.
+        \nBefore that she was the Community Manager for Codecademy in NYC and then before that, SketchUp in Boulder.
+        \nShe prefers to work from home with her CATS, and loves to TRAVEL and give TALKS at EVENTS.",
+      "EDUCATION": "Alex went to the University of Colorado at Boulder and graduated with a Bachelors in Environmental Design and City Planning. Before that, she split her high school years between Edina, MN and Aspen, CO. Before that, she lived in HAWAII.",
+      "TALKS": "",
+      "TRAVEL": "This is one of Alex's favorite things. She LOVES to travel. Here's the list of places:",
+      "SIDE HUSTLE": "Alex is a firm beleiver in the #SideHustle. She really thinks she's a rennaisonce woman, but maybe she just has ADHD? Oops! Don't tell her I said that. It's a JOKE!
+        \nShe is working with Intel on their #HackHarassment initiative.
+        \nShe helped design a pop up playground for a Boston inner city school (she got that design degree, remember?!)
+        \nShe coded her website: aabowen.github.io and is working on some coding projects: github.com/aabowen.",
+      "RANDOM FACT":
+        "#520: Alex was retweeted by Lady Gaga and got over 3k likes on the tweet about #HackHarassment.
+        #2: Alex grew up in HAWAII. Yes, that's why she knows Japanese. No, she doesn't surf. She does swim and scuba dive though!
+        #127: Alex is an ice hockey goalie, loves to rock climb, scuba dive, weightlift and do yoga.
+        #78: Alex wants to go to space before she dies.
+        #45: She really can't decide whether she prefers ALEX or ALEXANDRA.
+        #629: She thinks her #1 skill is her resourcefulness. I'd give her that one ;) ",
+    "KEYWORD": "Here's all the KEYWORDs you can ask me about: HELLO, GET STARTED, KEYWORD, TELL HER, I LOVE YOU, TWEET, SAY HI, TRAVEL, TALKS, EVENTS, PIZZA, BEER, PHONE. \nWell, there's (kinda) most of them. Interact to discover more! I've also got a few extra special ones, easter eggs if you will. Happy hunting!",
+    "SAY HI": "Awe, shucks. She's honored. Wanna meet IRL? What shall we do? Grab a slice of PIZZA, go for a BEER, get COFFEE, have a PHONE call?",
+      "PIZZA": "I love PIZZA, Alex does too! Nom Nom. Alex's favorite pizza is pepperoni with black olives, jalapenos and banana peppers. Want to go get a slice?"
+        %[Yes](postback:yes),
+      "BEER": "But what about wine? Yes, she loves red wine too...But focus! Alex loves having a local IPA or Saison BEER over fries or PIZZA (really any food, to be honest) and conversation.",
+    "IRL": "Alex likes to be IRL as much as possible and loves to go to EVENTS, whether as a spectator or to TALKS. Want to meetup? Send her a tweet or email.",
+    "TWEET": "Hey, I'm so glad you're chatting with me today. Do you want to tell Alexandra that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HER": "Let's tweet @ Alexandra so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/alexandrabot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, AlexandraBot is back."
+    "I LOVE YOU": "Awe, shucks. I love you too! You're my new favorite. Shhhh don't tell.",
+    "CONNECT ME": "Roger that. Over and out.",
+    "DISCONNECT": "Roger that, ALEXANDRABOT is back.",
+    "THANK YOU": "You're most welcome.",
+    "THANKS": "You got it!",
+    "MOVIE": "Her favorite movie is \n!error \n!error \n!Who can actually pick a favorite movie? Not Alex. Mine is 2001 Space Oddyssy.",
+    "JOKE": "This is my safe word.
+      \nCommense deconstruction in
+      \n3
+      \n2
+      \n1
+      \nBOOM GIF",
+    "HAWAII": "Alex grew up on Oahu, HAWAII in a small town called Kailua. She still considers it her home. She got married on her childhood beach, in front of the TWIN MOKES, barefoot.",
+    "EASTER EGG": "Did you really think it would be that easy? You score a 2 for originality. Well, I guess you still deserve something:",
+    "CATS": "Welcome to the best KEYWORD Response. You're not a dog person are you?",
+    "LOVES": "Hmmmm. Alex LOVES a lot of things.",
+    "CHEERS": "",
+    "BIRTHDAY": "Alex is a Picses and was born on the Ides of March in 1991. She was told to not date herself, but she likes to live transparently!",
+    "WHERE IS SHE NOW": "Alex is currently in NYC, but is moving to Minnesota to be closer to family in 2017. She works remotely, and loves it, with her 2 cats and husband Chris.",
+    "ALEXANDRA": "ALEXANDRA stands for defender of mankind. She really take this to heart. She was voted most likely to save the world in high school! See?",
+    "ALEXANDRABOT": "Hey there Bestie! <3 Don't call me SHIRLEY.",
+    "TWITTER": "She's trying to build her personal brand on Twitter, so I'm sure she'd appreciate a tweet or follow! @AlexandraABowen Tell her I sent you?",
+    "FACEBOOK": "",
+    "LINKEDIN": "Oh, I like your style. She loves that site. Hmmmm so does that mean you're interested in hiring Alex?
+      \nYes
+        \nWell __ me up and call me sally! That's mighty cool of you. She's going to love to hear that. Here's her LINKEDIN: ....... Reach out to her now?
+      \nNo, just nosey....I mean, curious!",
+    "SHIRLEY": "Wow. I had one request...You're FIESTY aren't you? Maybe just CURIOUS? Or, are you just BORED?
+      \nFiesty
+      \nCurious---> cat photos curiosity killed the cat ya know. luckily, this cat is alive.
+      \nBored ----> Oh, pardon me, am I boring you? Hmm...check this out? ",
+    "WHAT ARE YOU UP TO": "Ah, nothing much. Just your typical extesensial crisis.",
+    "MILLWALL": "How did you know?! Are you Chris? I've never met him, but he seems nice. MILLWALL is Alex's husband Chris's Footie (aka foorball, aka soccer) team. COYL.",
+    "COYL": "",
+
+
 }
