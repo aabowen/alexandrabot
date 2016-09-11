@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi there!
+    "HELLO": "Hi there! (please pardon the dust)
         \nI’m the personal bot of Alexandra, whom she cleverly named ALEXANDRABOT.
         \nAlex is currently a developer relations and community manager.
         \n![alexandra](https://raw.githubusercontent.com/aabowen/alexandrabot/master/img/alex.jpg)
@@ -17,7 +17,7 @@
       "EDUCATION": "Alex went to the University of Colorado at Boulder and graduated with a Bachelors in Environmental Design and City Planning. Before that, she split her high school years between Edina, MN and Aspen, CO. Before that, she lived in HAWAII.",
       "TALKS": "",
       "TRAVEL": "This is one of Alex's favorite things. She LOVES to travel. Here's the list of places:",
-      "SIDE HUSTLE": "Alex is a firm beleiver in the #SideHustle. She really thinks she's a rennaisonce woman, but maybe she just has ADHD? Oops! Don't tell her I said that. It's a JOKE!
+      "SIDE HUSTLE": "Alex is a firm believer in the #SideHustle. She really thinks she's a rennaisonce woman, but maybe she just has ADHD? Oops! Don't tell her I said that. It's a JOKE!
         \nShe is working with Intel on their #HackHarassment initiative.
         \nShe helped design a pop up playground for a Boston inner city school (she got that design degree, remember?!)
         \nShe coded her website: aabowen.github.io and is working on some coding projects: github.com/aabowen.",
@@ -41,6 +41,7 @@
     "DISCONNECT": "Roger that, ALEXANDRABOT is back.",
     "THANK YOU": "You're most welcome.",
     "THANKS": "You got it!",
+    "MUSIC": "She's got a Spotify, loves listening to jazz, world and electric music when working. "
     "MOVIE": "Her favorite movie is \n!error \n!error \n!Who can actually pick a favorite movie? Not Alex. Mine is 2001 Space Oddyssy.",
     "JOKE": "This is my safe word.
       \nCommense deconstruction in
@@ -54,7 +55,7 @@
     "LOVES": "Hmmmm. Alex LOVES a lot of things.",
     "CHEERS": "",
     "BIRTHDAY": "Alex is a Picses and was born on the Ides of March in 1991. She was told to not date herself, but she likes to live transparently!",
-    "WHERE IS SHE NOW": "Alex is currently in NYC, but is moving to Minnesota to be closer to family in 2017. She works remotely, and loves it, with her 2 cats and husband Chris.",
+    "WHERE IS SHE NOW": "Alex is currently in NYC, but is moving to Minnesota to be closer to family in 2017. She works remotely, and loves it, with her 2 cats and husband Chris. Lanicai super nova cluster.",
     "ALEXANDRA": "ALEXANDRA stands for defender of mankind. She really take this to heart. She was voted most likely to save the world in high school! See?",
     "ALEXANDRABOT": "Hey there Bestie! <3 Don't call me SHIRLEY.",
     "TWITTER": "She's trying to build her personal brand on Twitter, so I'm sure she'd appreciate a tweet or follow! @AlexandraABowen Tell her I sent you?",
@@ -70,6 +71,6 @@
     "WHAT ARE YOU UP TO": "Ah, nothing much. Just your typical extesensial crisis.",
     "MILLWALL": "How did you know?! Are you Chris? I've never met him, but he seems nice. MILLWALL is Alex's husband Chris's Footie (aka foorball, aka soccer) team. COYL.",
     "COYL": "",
-
+    "WHO ARE YOU": "Who, who, who, who. -- did you get the reference? That's a deep question, you're inquisitive. Well, literally we're ___ molecularly we're___ physically ____ (wquote)",
 
 }
