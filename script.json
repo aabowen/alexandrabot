@@ -30,8 +30,7 @@
         #629: She thinks her #1 skill is her resourcefulness. I'd give her that one ;) ",
     "KEYWORD": "Here's all the KEYWORDs you can ask me about: HELLO, GET STARTED, KEYWORD, TELL HER, I LOVE YOU, TWEET, SAY HI, TRAVEL, TALKS, EVENTS, PIZZA, BEER, PHONE. \nWell, there's (kinda) most of them. Interact to discover more! I've also got a few extra special ones, easter eggs if you will. Happy hunting!",
     "SAY HI": "Awe, shucks. She's honored. Wanna meet IRL? What shall we do? Grab a slice of PIZZA, go for a BEER, get COFFEE, have a PHONE call?",
-      "PIZZA": "I love PIZZA, Alex does too! Nom Nom. Alex's favorite pizza is pepperoni with black olives, jalapenos and banana peppers. Want to go get a slice?"
-        %[Yes](postback:yes),
+      "PIZZA": "I love PIZZA, Alex does too! Nom Nom. Alex's favorite pizza is pepperoni with black olives, jalapenos and banana peppers. Want to go get a slice?",
       "BEER": "But what about wine? Yes, she loves red wine too...But focus! Alex loves having a local IPA or Saison BEER over fries or PIZZA (really any food, to be honest) and conversation.",
     "IRL": "Alex likes to be IRL as much as possible and loves to go to EVENTS, whether as a spectator or to TALKS. Want to meetup? Send her a tweet or email.",
     "TWEET": "Hey, I'm so glad you're chatting with me today. Do you want to tell Alexandra that you're talking to her bot? %[Tell her](postback:twitter)",
