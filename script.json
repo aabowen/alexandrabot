@@ -4,13 +4,8 @@
           %[I'm here for the bot](postback:here_for_the_bot)
           %[Learn about Alexandra](postback:learn_about_esther)
           %[One random fact!](postback:random_fact)",
-    "GET STARTED": "Sweet! 👍 Let's do this. I only respond to a KEYWORD (in caps) that I give you. You don't have to type in caps FYI ;) It's cute tho and eh, live your life!
-        \nOdds are you want to dive into Alex's EDUCATION, CAREER, or SIDE HUSTLE. I've also got a PHOTO or a RANDOM FACT for ya. Just type a KEYWORD and boom - your wish is my command! Literally.",
-      "CAREER": "Whew. This is a big one. She's really into keeping track of everything she's done, partially because she is organized and partially because she has a terrible memory.
-        \nRead more on her (self coded) website: aabowen.github.io, or if you literally are in the mood for #AllTheThings go to: alexandrabowen.weebly.com. I warned you.
-        \nShe is Head of Community and Developer Relations for DreamFactory Software currently where she's deep into REST APIs, IoT, and App development/mgmt. She's been with DreamFactory since April 2016. She also runs their community forum, events (online/offline), and social media.
-        \nBefore that she was the Community Manager for Codecademy in NYC and then before that, SketchUp in Boulder.
-        \nShe prefers to work from home with her CATS, and loves to TRAVEL and give TALKS at EVENTS.",
+    "GET STARTED": "Sweet! 👍 Let's do this. I only respond to a KEYWORD (in caps) that I give you. You don't have to type in caps FYI ;) It's cute tho and eh, live your life!\nOdds are you want to dive into Alex's EDUCATION, CAREER, or SIDE HUSTLE. I've also got a PHOTO or a RANDOM FACT for ya. Just type a KEYWORD and boom - your wish is my command! Literally.",
+      "CAREER": "Whew. This is a big one. She's really into keeping track of everything she's done, partially because she is organized and partially because she has a terrible memory.\nRead more on her (self coded) website: aabowen.github.io, or if you literally are in the mood for #AllTheThings go to: alexandrabowen.weebly.com. I warned you.\nShe is Head of Community and Developer Relations for DreamFactory Software currently where she's deep into REST APIs, IoT, and App development/mgmt. She's been with DreamFactory since April 2016. She also runs their community forum, events (online/offline), and social media.\nBefore that she was the Community Manager for Codecademy in NYC and then before that, SketchUp in Boulder.\nShe prefers to work from home with her CATS, and loves to TRAVEL and give TALKS at EVENTS.",
       "EDUCATION": "Alex went to the University of Colorado at Boulder and graduated with a Bachelors in Environmental Design and City Planning. Before that, she split her high school years between Edina, MN and Aspen, CO. Before that, she lived in HAWAII.",
       "TALKS": "",
       "TRAVEL": "This is one of Alex's favorite things. She LOVES to travel. Here's the list of places:",
@@ -36,12 +31,7 @@
     "THANKS": "You got it!",
     "MUSIC": "She's got a Spotify, loves listening to jazz, world and electric music when working. "
     "MOVIE": "Her favorite movie is \n!error \n!error \n!Who can actually pick a favorite movie? Not Alex. Mine is 2001 Space Oddyssy.",
-    "JOKE": "This is my safe word.
-      \nCommense deconstruction in
-      \n3
-      \n2
-      \n1
-      \nBOOM GIF",
+    "JOKE": "This is my safe word.\nCommense deconstruction in\n3\n2\n1\nBOOM GIF",
     "HAWAII": "Alex grew up on Oahu, HAWAII in a small town called Kailua. She still considers it her home. She got married on her childhood beach, in front of the TWIN MOKES, barefoot.",
     "EASTER EGG": "Did you really think it would be that easy? You score a 2 for originality. Well, I guess you still deserve something:",
     "CATS": "Welcome to the best KEYWORD Response. You're not a dog person are you?",
@@ -53,14 +43,8 @@
     "ALEXANDRABOT": "Hey there Bestie! <3 Don't call me SHIRLEY.",
     "TWITTER": "She's trying to build her personal brand on Twitter, so I'm sure she'd appreciate a tweet or follow! @AlexandraABowen Tell her I sent you?",
     "FACEBOOK": "",
-    "LINKEDIN": "Oh, I like your style. She loves that site. Hmmmm so does that mean you're interested in hiring Alex?
-      \nYes
-        \nWell __ me up and call me sally! That's mighty cool of you. She's going to love to hear that. Here's her LINKEDIN: ....... Reach out to her now?
-      \nNo, just nosey....I mean, curious!",
-    "SHIRLEY": "Wow. I had one request...You're FIESTY aren't you? Maybe just CURIOUS? Or, are you just BORED?
-      \nFiesty
-      \nCurious---> cat photos curiosity killed the cat ya know. luckily, this cat is alive.
-      \nBored ----> Oh, pardon me, am I boring you? Hmm...check this out? ",
+    "LINKEDIN": "Oh, I like your style. She loves that site. Hmmmm so does that mean you're interested in hiring Alex?\nYes\nWell __ me up and call me sally! That's mighty cool of you. She's going to love to hear that. Here's her LINKEDIN: ....... Reach out to her now?\nNo, just nosey....I mean, curious!",
+    "SHIRLEY": "Wow. I had one request...You're FIESTY aren't you? Maybe just CURIOUS? Or, are you just BORED?\nFiesty\nCurious---> cat photos curiosity killed the cat ya know. luckily, this cat is alive.\nBored ----> Oh, pardon me, am I boring you? Hmm...check this out? ",
     "WHAT ARE YOU UP TO": "Ah, nothing much. Just your typical extesensial crisis.",
     "MILLWALL": "How did you know?! Are you Chris? I've never met him, but he seems nice. MILLWALL is Alex's husband Chris's Footie (aka foorball, aka soccer) team. COYL.",
     "COYL": "",
