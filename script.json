@@ -19,7 +19,7 @@
       "BEER": "But what about wine? Yes, she loves red wine too...But focus! Alex loves having a local IPA or Saison BEER over fries or PIZZA (really any food, to be honest) and conversation.",
     "IRL": "Alex likes to be IRL as much as possible and loves to go to EVENTS, whether as a spectator or to TALKS. Want to meetup? Send her a tweet or email.",
     "TWEET": "Hey, I'm so glad you're chatting with me today. Do you want to tell Alexandra that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Alexandra so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/alexandrabot-tweet)",
+    "TELL HER": "Let's tweet @ Alexandra so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Alexandra](http://bit.ly/alexandrabot-tweet)",
     "I LOVE YOU": "Awe, shucks. I love you too! You're my new favorite. Shhhh don't tell.",
     "CONNECT ME": "Roger that. Over and out.",
     "DISCONNECT": "Roger that, ALEXANDRABOT is back.",
