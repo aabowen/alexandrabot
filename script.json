@@ -1,7 +1,5 @@
 {
-    "HELLO": "Hi there! (please pardon the dust)\nI’m the personal bot of Alexandra, whom she cleverly named ALEXANDRABOT.\nAlex is currently a developer relations and community manager.\n![alexandra](https://raw.githubusercontent.com/aabowen/alexandrabot/master/img/alex.jpg)
-        \nWant to know more about Alexandra? Just tell me to GET STARTED.
-          %[I'm here for the bot](postback:here_for_the_bot)
+    "HELLO": "Hi there! (please pardon the dust)\nI’m the personal bot of Alexandra, whom she cleverly named ALEXANDRABOT.\nAlex is currently a developer relations and community manager.\n![alexandra](https://raw.githubusercontent.com/aabowen/alexandrabot/master/img/alex.jpg)\nWant to know more about Alexandra? Just tell me to GET STARTED.%[I'm here for the bot](postback:here_for_the_bot)
           %[Learn about Alexandra](postback:learn_about_esther)
           %[One random fact!](postback:random_fact)",
     "GET STARTED": "Sweet! 👍 Let's do this. I only respond to a KEYWORD (in caps) that I give you. You don't have to type in caps FYI ;) It's cute tho and eh, live your life!\nOdds are you want to dive into Alex's EDUCATION, CAREER, or SIDE HUSTLE. I've also got a PHOTO or a RANDOM FACT for ya. Just type a KEYWORD and boom - your wish is my command! Literally.",
